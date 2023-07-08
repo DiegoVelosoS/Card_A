@@ -18,6 +18,13 @@ Desta forma, além de praticar, também, soluciono um probleminha estético da a
 * Botões elegantes em CSS; e
 * Estabilizar link de acesso.
 
-## Breve comentário
-Por ser o meu 1º projeto front-end, a necessidade de ambientação das aplicações CSS são fundamentais para a apresentação final.
-Contudo, paciencia e percistencia...
+## Diário do Projeto
+Day1 - Por ser o meu 1º projeto front-end, a necessidade de ambientação das aplicações CSS são fundamentais para a apresentação final. Contudo, paciencia e percistencia...
+Day2 - Tentamos de todas as formas possíveis e os conselhos recebidos foram: "Apaga tudo e refaz do zero" (2pessoas falaram e outras 3 confirmaram por se tratarem de profissionais da área aconselhando). Isso foi desmotivador e PAUSEI esse projeto por um tempinho.
+Day3 - Após relutar e refazer um Mockup funcional pelo google, decidí retomar esse projeto. Com menos firulas de menu com JS e relogio. Vamos organizar esse projeto e iniciar pelo básico: seguir um mockup.
+Day4 - Seguinto o plano e reiniciar do zero.
+### O Plano é
+#### 1.Passo:
+Construir o ```index.html```
+#### 2.Passo:
+Construir o ```style.css```
