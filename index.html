@@ -1,42 +1,32 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta chaset="utf8" />
-        <meta name="viewport" content="width=device=width, initial-scale=1.0">
+		<meta chaset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>DVS - Cartão de Apresentação</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <nav>
-            <p>CARTÃO DE APRESENTAÇÃO</p>
-        </nav>
-        <container>
-            <item>
-            <div>
-                <img src="img/Pf.jpg" class="profile-img" alt="avatar">
-            </div></item>
-            
-            <div>
-                <h1>
-                Diego VelosoS   
-                </h1>
-            </div> 
-            <p1>Olá, aqui estão alguns de meus projetos e mídias para contato:</p1>
-        </container>
-
-
-        <container>
-            <!-- <div class="grupo"> */ -->
-            <button class="botão">Whattsapp</button>
-            <button class="botão">Linkedin</button>
-            <button class="botão">GuitHub</button>
-                       
-            <div class="break"></div>
+        <p>CARTÃO DE APRESENTAÇÃO</p>
+        <div id="Cima">
+            <img src="img/Pf.jpg" class="profile-img" alt="avatar">
+        </div>
+        <div>
+            <h1>
+            Diego VelosoS   
+            </h1>
+        </div> 
         
-            <button class="botão">Facebook</button>
-            <button class="botão">Projetos</button>
-            <button class="botão">Fotos</button>
-            <!-- </div> -->
-        </container>
-        </body>
+        <p>Olá, aqui estão alguns de meus projetos e mídias para contato.</p>
+
+        <div id="menu">
+            <button onclick="window.location.href='https://api.whatsapp.com/send?phone=5595991150093'" class="botão">Whattsapp</button>
+            <button onclick="window.location.href='https://drive.google.com/drive/folders/1AYrzMVnvj3AJxovKWIzzQJM1m1kZdB1y?usp=sharing'" class="botão">Projetos Administrativos</button>
+            <button onclick="window.location.href='https://drive.google.com/drive/folders/1p_JEWe2azSnFrScLfnS2ioohyPzhBrZS?usp=sharing'" class="botão">Projetos Diversos</button>
+        </div>
+            <div id="footer"></div>
+            Copyright © Sitename 2004
+        </div>
+        
+    </body>
 </html>
