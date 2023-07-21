@@ -15,7 +15,7 @@ body{
     background-color: #5f5f5f;
     box-shadow: #000;
 }
-/** Box cartão **/ /**
+/** card cartão **/ /**
 .container {
     width: 30px;
     background-color: #3CBC8D;
@@ -31,9 +31,14 @@ body{
     border-radius: 50%;
 }
 
+/** org botões gerais **/
+.button {
+    display: flex;
+    position: center;
+}
 
 /** aparencia dos botões **/
-.botão{
+.btn{
     background: none;
     border: 2px solid #000;
     font-family: "montserrat",sans-serif;
@@ -48,11 +53,11 @@ body{
     } 
 
     /** Efeito dos botões **/
-    .botão:hover{
+    .btn:hover{
         color: #fff;
         }
     
-        .botão::before{
+        .btn::before{
         content: "";
         position: absolute;
         left: 0;
@@ -66,6 +71,6 @@ body{
         transition-timing-function: cubic-bezier(0.5,1.6,0.4,0.7);
         }
     
-            .botão::before{transform: scaleY(0)}
-            .botão:hover::before{transform: scaleY(1)}
+            .btn::before{transform: scaleY(0)}
+            .btn:hover::before{transform: scaleY(1)}
     
