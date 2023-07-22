@@ -24,10 +24,10 @@ Desta forma, além de praticar, também, soluciono um probleminha estético da a
              Day3 - Após relutar e refazer um Mockup funcional pelo google, decidí retomar esse projeto. Com menos
           firulas de menu com JS e relogio. Vamos organizar esse projeto e iniciar pelo básico: seguir um mockup.
              Day4 - Seguinto o plano e reiniciar do zero.
-             ### O PLANO é
-             #### 1.Passo:
+                 O PLANO é
+                     1.Passo:
                           Construir o index.html
-             #### 2.Passo:
+                     2.Passo:
                           Construir o style.css
              Day5 - Ao tentar iniciar o plano do dia 4 algumas etapas do processo ficaram desasistidas e voltamos ao
           básico do basico, estudo de tags e layout css com e-books e videos aulas. Após fazer alguns exercícios,
@@ -35,5 +35,13 @@ Desta forma, além de praticar, também, soluciono um probleminha estético da a
              Day6 - Fazer o comit das alterações feitas e preparar os elementos (.gif, prints, ...) para montagem do
           projeto no git. 
              Day7 - fazendo o ultimo comit e fechanto este projeto.
+
+
+## Tecnologias Usadas
+* VS-Code
+* HTML Language
+* CSS Language
+* Github
+
 
 VAMOS PARA O PRÓXIMO PROJETO.
