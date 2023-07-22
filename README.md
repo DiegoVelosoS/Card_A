@@ -1,10 +1,8 @@
 # Cartão Digital
 ![html](https://img.shields.io/badge/HTML%20--F3AA60)
 ![css](https://img.shields.io/badge/CSS%20--9BE8D8)
-![js](https://img.shields.io/badge/JS%20--F6FA70)
 
-Este é o Mockup:
-![CVisita Modelo](https://github.com/DiegoVelosoS/Proj.1-CVisita/assets/124423575/3996d779-e5d5-45e4-b8ca-c179268794a4)
+![Capa](https://github.com/DiegoVelosoS/Proj.1-CVisita/assets/124423575/a1f51d31-cec3-4fef-a28a-39eab3f0478a)
 
 Este é o CVisita
 
