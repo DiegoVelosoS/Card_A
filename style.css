@@ -106,3 +106,13 @@ body {
     
             .btn::before{transform: scaleY(0)}
             .btn:hover::before{transform: scaleY(1)}
+
+/** tirando aspécto de Link dos links **/
+a {
+    text-decoration: none;
+}
+
+/** cor dos Links visitador, tira o aspecto de link **/
+a:visited {
+    color: #707070;
+}

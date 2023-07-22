@@ -36,3 +36,5 @@ Construir o ```style.css```
 Day5 - Ao tentar iniciar o plano do dia 4 algumas etapas do processo ficaram desasistidas e voltamos ao básico do basico, estudo de tags e layout css com e-books e videos aulas. Após fazer alguns exercícios, foi feita a adaptação do projeto e aplicação dos efeitos finais.
 
 Day6 - Fazer o comit das alterações feitas e preparar os elementos (.gif, prints, ...) para montagem do projeto no git.
+
+Day7 - fazendo o ultimo comit e fechanto este projeto. VAMOS PARA O PRÓXIMO PROJETO.
