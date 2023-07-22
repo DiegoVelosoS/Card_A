@@ -1,10 +1,9 @@
-# Cartão Digital
+# Cartão de Apresentação
 ![html](https://img.shields.io/badge/HTML%20--F3AA60)
 ![css](https://img.shields.io/badge/CSS%20--9BE8D8)
 
 ![Capa](https://github.com/DiegoVelosoS/Proj.1-CVisita/assets/124423575/a1f51d31-cec3-4fef-a28a-39eab3f0478a)
-
-Este é o CVisita
+Este é a página.
 
 
 ## Objetivo
@@ -35,4 +34,6 @@ Day5 - Ao tentar iniciar o plano do dia 4 algumas etapas do processo ficaram des
 
 Day6 - Fazer o comit das alterações feitas e preparar os elementos (.gif, prints, ...) para montagem do projeto no git.
 
-Day7 - fazendo o ultimo comit e fechanto este projeto. VAMOS PARA O PRÓXIMO PROJETO.
+Day7 - fazendo o ultimo comit e fechanto este projeto.
+
+VAMOS PARA O PRÓXIMO PROJETO.
